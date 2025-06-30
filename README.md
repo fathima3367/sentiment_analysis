@@ -14,6 +14,8 @@
 
 ---
 ## LIVE DEMO
+click the link for the web app:
+
 https://huggingface.co/spaces/fathima-ai/chatGPT_VibeChecker
 
 ---
