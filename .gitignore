@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+env/
+*.egg-info/
+
+# Models
+models/*.pkl
+
+# Data
+data/*.zip
+
+# Plots
+*.png
