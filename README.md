@@ -69,5 +69,7 @@ chatgpt_vibecheck/
 
 👤 Author
 Fathima M J
-B.Tech AI & Data Science | Passionate about Generative AI & NLP
+
+B.Tech AI & Data Science 
+Passionate about Generative AI & NLP
 📬 [www.linkedin.com/in/fathima-m-j-063060287]
