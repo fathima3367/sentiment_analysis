@@ -13,6 +13,7 @@
 - Launches a **Gradio web UI** for real-time sentiment detection
 
 ---
+## LIVE DEMO
 
 
 ---
@@ -60,11 +61,13 @@ chatgpt_vibecheck/
 │ ├── vibecheck_model.pkl
 
 │ └── vibecheck_vectorizer.pkl
-
 │
 
 ├── sentiment_distribution.png
 
 ├── confusion_matrix.png
 
-
+👤 Author
+Fathima M J
+B.Tech AI & Data Science | Passionate about Generative AI & NLP
+📬 [www.linkedin.com/in/fathima-m-j-063060287]
