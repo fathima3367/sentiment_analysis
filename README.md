@@ -14,7 +14,7 @@
 
 ---
 ## LIVE DEMO
-
+https://huggingface.co/spaces/fathima-ai/chatGPT_VibeChecker
 
 ---
 
