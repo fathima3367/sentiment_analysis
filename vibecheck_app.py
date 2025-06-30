@@ -52,4 +52,4 @@ iface = gr.Interface(
     examples=sample_examples,
 )
 
-iface.launch(share=True)
+iface.launch()
