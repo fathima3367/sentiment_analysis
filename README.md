@@ -42,30 +42,8 @@ https://huggingface.co/spaces/fathima-ai/chatGPT_VibeChecker
 
 ---
 
-## 🗂 Folder Structure
-chatgpt_vibecheck/
-│
 
-├── vibecheck_train.py # Training + Plots + Model saving
 
-├── vibecheck_app.py # Gradio app
-
-├── requirements.txt
-
-├── .gitignore
-
-├──file.csv
-
-├── models/
-
-│ ├── vibecheck_model.pkl
-
-│ └── vibecheck_vectorizer.pkl
-│
-
-├── sentiment_distribution.png
-
-├── confusion_matrix.png
 
 👤 Author
 Fathima M J
